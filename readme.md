@@ -1,5 +1,5 @@
 # Open Bootcamp #
-> Cuaderno de apuntes
+> Cuaderno de apuntes de [Open Bootcamp](openbootcamp.gdgcordoba.com)
 
 ### Maquetación Web (HTML, CSS y jQuery). ###
 * [freecodecamp](freecodecamp.com)
@@ -24,13 +24,14 @@
   - [Introducción a ApiRest](http://www.django-rest-framework.org/)
 
 ### Presentaciones de nuestros Mentores ###
-* [Git & GitHub para principiantes, de @VictorParraCant]()
-* [El roce hace el cariño, de @lolergb]()
+* [Git & GitHub para principiantes, de @VictorParraCant](https://drive.google.com/file/d/0B4YLsFUmquGEcENxNnZnZzBiZDQ/view?pref=2&pli=1)
+* [El roce hace el cariño, de @lolergb](https://drive.google.com/open?id=0B4YLsFUmquGEV0ZxVWVwXzFhOG8)
 
 ### Recursos extra ###
 * [Git](https://git-scm.com/)
   - [Tutorial práctico - Try Git](https://try.github.io/levels/1/challenges/1)
   - [Gia Sencilla](http://rogerdudler.github.io/git-guide/index.es.html)
   - [Interfaz Gráfica de GitHub - Oficial](https://desktop.github.com/)
+  - [Interfaz Gráfica de GitHub - SourceTree](https://www.sourcetreeapp.com/)
 
 > No olvides que esta lista se ira actualizando durante el evento
