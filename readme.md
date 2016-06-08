@@ -27,6 +27,7 @@ Cuaderno de apuntes de [Open Bootcamp](http://victorparracant.github.io/OpenBoot
 * [Presentación inicial del evento](https://docs.google.com/presentation/d/17C3cQ_lLL25V9DVJdUca80a0PbJxVGV1Ujj6JfoMjmc/edit?usp=sharing)
 * [Git & GitHub para principiantes, de @VictorParraCant](https://drive.google.com/file/d/0B4YLsFUmquGEcENxNnZnZzBiZDQ/view?pref=2&pli=1)
 * [El roce hace el cariño, de @lolergb](https://drive.google.com/open?id=0B4YLsFUmquGEV0ZxVWVwXzFhOG8)
+* [Cómo hacer front-end y parecer bueno, de @rteran](https://drive.google.com/file/d/0B4YLsFUmquGEckRBYkRad05XR3c/view?usp=sharing)
 
 ### Recursos extra. ###
 * [Git](https://git-scm.com/)
